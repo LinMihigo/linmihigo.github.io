@@ -37,7 +37,6 @@ FILES=(
 TOOLS=(
   "git"
   "npm"
-  "standard-version"
   "gem"
 )
 
