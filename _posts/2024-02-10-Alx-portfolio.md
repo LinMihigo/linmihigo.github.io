@@ -20,7 +20,7 @@ Team project
 
 Link: [WEP - Team project youtube link](https://www.youtube.com/watch?v=yAk2_wO93mw)
 
-PDF: [WEP - Team project slides](https://docs.google.com/presentation/d/1rIGcPGkoHpzVpkkygjr1dQQRzwyRNf-24fr-ncxHjK0/edit#slide=id.g2a76b0f1678_0_55)
+PDF: [WEP - Team project slides](https://drive.google.com/file/d/18udaKJoJSHzsnwbSmWc-8OTOG_i2vTMd/view?usp=sharing)
 
 ### Elevator pitch:
 
