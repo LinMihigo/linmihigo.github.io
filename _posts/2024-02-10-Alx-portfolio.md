@@ -24,6 +24,8 @@ PDF: [WEP - Team project slides](https://drive.google.com/file/d/18udaKJoJSHzsnw
 
 ### Elevator pitch:
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/307efa0492b743d3a5274a6f430aa6da?sid=9ab57d15-78c2-4f21-b084-db78b176012d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 <br />
 
 ---
