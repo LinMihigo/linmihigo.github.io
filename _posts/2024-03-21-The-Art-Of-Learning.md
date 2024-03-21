@@ -1,12 +1,12 @@
 ---
-title: "Alx Portfolio"
+title: "The art of learning"
 author: Lin
 date: 2024-03-21 10:30:23 +0200
 categories: [Learning to learn, Tips & Tricks]
 tags: [Learning to learn] # TAG names should always be lowercase
 ---
 
-## The Art of Learning: How to Improve Your Study Sessions
+## How to Improve Your Study Sessions
 
 To truly excel in a subject and make the most out of your learning sessions, it is important to implement certain strategies and practices. Here are some key points to consider:
 
